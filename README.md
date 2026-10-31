@@ -8,4 +8,6 @@
 4. Create containers in the storage account
 5. Create an Azure Databricks Access Connector
 6. Grant the managed Identity access to storage
-7. Create a metastore
+7. Create a Metastore
+8. Create a Storage Credential Using a Managed Identify
+9. Create an external Locaton
