@@ -8,3 +8,4 @@
 4. Create containers in the storage account
 5. Create an Azure Databricks Access Connector
 6. Grant the managed Identity access to storage
+7. Create a metastore
