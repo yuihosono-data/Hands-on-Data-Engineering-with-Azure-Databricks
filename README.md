@@ -12,3 +12,4 @@
 8. Create a Storage Credential Using a Managed Identify
 9. Create an external Locaton
 10. Create a catalog
+11. Create an external volume for staging
