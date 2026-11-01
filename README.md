@@ -16,8 +16,14 @@
 12. Configure Git Integration
 13. Create a Git Folder
 
-## Build the pipeline for the Bronze, Silver, and Gold tables
+## Create Bronze / Silver / Gold Table
 
+1. Create Bronze tables
+2. Copy into Brone tablea
+3. Create Silver tablea
+4. Create Gold tables
+5. Data quality check
+ 
 ## References
 
 - Book: Data Engineering with Azure Databricks
