@@ -2,14 +2,16 @@
 
 ## Environment Setup
 
-1. Create an admin user
-2. Set up an Azure Databricks workspace
+1. Create an Admin User
+2. Set Up an Azure Databricks Workspace
 3. Create an Azure Storage Account
-4. Create containers in the storage account
+4. Create Containers in the Storage Account
 5. Create an Azure Databricks Access Connector
-6. Grant the managed Identity access to storage
+6. Grant the Managed Identity Access to Storage
 7. Create a Metastore
-8. Create a Storage Credential Using a Managed Identify
-9. Create an external Locaton
-10. Create a catalog
-11. Create an external volume for staging
+8. Create a Storage Credential Using a Managed Identity
+9. Create an External Location
+10. Create a Catalog
+11. Create an External Volume for Staging
+12. Configure Git Integration
+13. Create a Git Folder
