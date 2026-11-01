@@ -15,3 +15,10 @@
 11. Create an External Volume for Staging
 12. Configure Git Integration
 13. Create a Git Folder
+
+
+## References
+
+- Book: Data Engineering with Azure Databricks
+- Publisher: Packt
+- Source: https://github.com/PacktPublishing/Data-Engineering-with-Azure-Databricks
