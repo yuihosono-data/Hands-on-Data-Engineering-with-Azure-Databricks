@@ -16,6 +16,7 @@
 12. Configure Git Integration
 13. Create a Git Folder
 
+## Build the pipeline for the Bronze, Silver, and Gold tables
 
 ## References
 
