@@ -1,0 +1,6 @@
+﻿schema,table
+sales_bronze,customers
+sales_bronze,orders
+product,products
+hr,employees
+hr,departments
